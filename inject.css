@@ -1,0 +1,57 @@
+div.main-container {
+  width: 100%;
+  margin-left: 0px;
+}
+
+div.fandom-sticky-header {
+  left: 0px;
+  width: 100%;
+}
+
+footer.global-footer {
+  display: none;
+}
+
+div.wikia-bar.wikia-bar-anon {
+  display: none;
+}
+
+div.global-navigation {
+  display: none;
+}
+
+div.mcf-wrapper {
+  display: none;
+}
+
+footer.wds-global-footer {
+  display: none;
+}
+
+div.wikia-bar-collapse {
+  display: none;
+}
+
+div.right-rail-wrapper.WikiaRail {
+  display: none;
+}
+
+aside.page__right-rail {
+  display: none;
+}
+
+div div table {
+  width: 100%;
+}
+
+div.page-counter__value {
+  display: none;
+}
+
+div.page-counter__label {
+  display: none;
+}
+
+.fandom-community-header__background.cover.fullScreen {
+  width: 100%;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Better Fandom",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "assets/16.png",
+    "48": "assets/48.png",
+    "128": "assets/128.png"
+  },
+  "description": "Removes all of the garbage from Fandom pages",
+  "content_scripts": [
+    {
+      "matches": ["https://*.fandom.com/*"],
+      "css": ["inject.css"]
+    }
+  ]
+}
